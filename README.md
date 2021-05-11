@@ -25,6 +25,10 @@ Repo for student project managers
 
 ### Group PM1
 
+#### Giridhar Addagalla
+#### Prasanna Arla
+#### Narsing Rao Nikitha Madhari
+#### Vyshnavi Tadipaneni
 
 ### Group PM2
 
