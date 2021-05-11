@@ -29,6 +29,7 @@ Repo for student project managers
 #### Prasanna Arla
 #### Narsing Rao Nikitha Madhari
 #### Vyshnavi Tadipaneni
+#### Rasagna Reddy Banda
 
 ### Group PM2
 
