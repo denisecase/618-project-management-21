@@ -14,7 +14,6 @@ Project repos
 - pm-s04-g06-project
 - [pm-s04-g07-project](https://github.com/Rohitreddz/pm-s04-g07-project)
 
-
 ## PM Section 03
 
 Project repos
